@@ -143,6 +143,22 @@
 { "type": "Feature", "properties": { "id": 138, "name": "獼力肚", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.475412522421209, 22.821689407546536 ] } },
 { "type": "Feature", "properties": { "id": 139, "name": "三張廍特一號", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.492142886156103, 22.818887562967028 ] } },
 { "type": "Feature", "properties": { "id": 140, "name": "三張廍訖點", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.491372036167405, 22.812477622125748 ] } },
-{ "type": "Feature", "properties": { "id": 141, "name": "九曲堂", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.420958649010259, 22.656765372418739 ] } }
+{ "type": "Feature", "properties": { "id": 141, "name": "九曲堂", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.420958649010259, 22.656765372418739 ] } },
+{ "type": "Feature", "properties": { "id": 142, "name": "1號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.731815137483167, 24.306616510556509 ] } },
+{ "type": "Feature", "properties": { "id": 143, "name": "2號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.729574293924841, 24.311898010060681 ] } },
+{ "type": "Feature", "properties": { "id": 144, "name": "3號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.727713359511256, 24.31758718648474 ] } },
+{ "type": "Feature", "properties": { "id": 145, "name": "4號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.721667450534682, 24.320745029755052 ] } },
+{ "type": "Feature", "properties": { "id": 146, "name": "5號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.699373665368952, 24.313329321022234 ] } },
+{ "type": "Feature", "properties": { "id": 147, "name": "6號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.695715026673838, 24.313467682236492 ] } },
+{ "type": "Feature", "properties": { "id": 148, "name": "7號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.693079157020051, 24.313121037116719 ] } },
+{ "type": "Feature", "properties": { "id": 149, "name": "8號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.683619909846328, 24.309813041260764 ] } },
+{ "type": "Feature", "properties": { "id": 150, "name": "1號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.680827421198828, 24.304650965775448 ] } },
+{ "type": "Feature", "properties": { "id": 151, "name": "1號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.696772819070603, 24.309508388121589 ] } },
+{ "type": "Feature", "properties": { "id": 152, "name": "2號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.694412122318269, 24.303831073672121 ] } },
+{ "type": "Feature", "properties": { "id": 153, "name": "3號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.692353518133103, 24.292947883012562 ] } },
+{ "type": "Feature", "properties": { "id": 154, "name": "4號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.68409024708042, 24.291737624052949 ] } },
+{ "type": "Feature", "properties": { "id": 155, "name": "5號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.683879719862546, 24.291704745055057 ] } },
+{ "type": "Feature", "properties": { "id": 156, "name": "6號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.679781446076362, 24.291252675612043 ] } },
+{ "type": "Feature", "properties": { "id": 157, "name": "7號", "factory": "月眉" }, "geometry": { "type": "Point", "coordinates": [ 120.672250386826946, 24.296020800814972 ] } }
 ]
 }
