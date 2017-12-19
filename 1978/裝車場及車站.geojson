@@ -110,7 +110,7 @@
 { "type": "Feature", "properties": { "id": 105, "name": "大山", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.468397657634142, 22.851745173751294 ] } },
 { "type": "Feature", "properties": { "id": 106, "name": "頭林", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.478258327264726, 22.881973032076267 ] } },
 { "type": "Feature", "properties": { "id": 107, "name": "新庄訖點", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.566586447606724, 22.995341858383206 ] } },
-{ "type": "Feature", "properties": { "id": 108, "name": "新庄", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.562713387833355, 22.993047050626309 ] } },
+{ "type": "Feature", "properties": { "id": 108, "name": "新庄", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.562663116971578, 22.993170455767228 ] } },
 { "type": "Feature", "properties": { "id": 109, "name": "隘丁寮", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.550554209494706, 22.982781265599979 ] } },
 { "type": "Feature", "properties": { "id": 110, "name": "崁頂", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.545482339641723, 22.979384722821496 ] } },
 { "type": "Feature", "properties": { "id": 111, "name": "月眉", "factory": "旗山" }, "geometry": { "type": "Point", "coordinates": [ 120.537259979081128, 22.972226308261973 ] } },
