@@ -10,6 +10,7 @@
 * [1978年臺糖鐵道平面、分佈圖](http://citycat.theweb.tw/smap.htm)
 * 中央研究院臺灣百年歷史地圖WMTS服務：http://gis.sinica.edu.tw/tileserver/wmts
 * 高雄百年歷史地圖WMTS服務：http://gis.sinica.edu.tw/kaohsiung/wmts
+* 台南百年歷史地圖WMTS服務：http://gis.sinica.edu.tw/tainan/wmts
 * 國土測繪圖資服務雲 地籍圖 https://maps.nlsc.gov.tw/
 * [台湾 臺糖鐵道 廃線跡 配線図式路線図](https://www.google.com/maps/d/viewer?mid=1vVF4DVLLea0wTYEFPTM603GRAg8)
 * [台灣糖業公司_台糖地籍圖資料](http://www.taisugar.com.tw/Upload/UserFiles/%E5%8F%B0%E7%B3%96%E5%9C%B0%E7%B1%8D%E5%9C%96%E8%B3%87%E6%96%99.zip)
@@ -30,6 +31,7 @@
 * 1977 年路竹交流道通車，所以阿蓮線與一甲裝車場的位置依據 [此文](http://blog.xuite.net/tropicofcancer/2327/20742124-%E4%BB%81%E5%BE%B7%E7%B3%96%E5%BB%A0%E9%98%BF%E8%93%AE%E7%B7%9A3%E4%B9%8B3)與地籍圖描繪。
 
 ### 永康
+* 太爺線依據台南百年歷史地圖 WMTS 服務的<<台南舊航照影像(1975,高經度)>> 描繪。
 
 ### 善化
 * 六分寮線、倉庫線位置依照 <<正射影像圖>> 描繪
@@ -38,6 +40,7 @@
 ### 新營
 * 平面圖記載鐵線橋線長度 6.535，但是此圖的路線長度較短。有可能是因為起點位置的關係。
 * 平面圖在土庫線終點有記載 "移動軌道"，但是沒有說明長度。在這裡依地籍圖的”痕跡”描繪，並因 1978 年時高速公路以通車，路線只描繪到高速公路為止。
+* 鐵線橋線長度與平面圖不符。
 
 ### 岸內
 * 不確定構內線的位置與走向。
