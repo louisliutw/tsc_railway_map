@@ -4,4 +4,4 @@
 
 各年度的資料與資料說明都在各年度的目錄內。
 
-所有資料授權採 [ODbLv1.0](https://opendatacommons.org/licenses/odbl/1.0/)
+資料授權條款：https://creativecommons.org/licenses/by/3.0/tw/legalcode
