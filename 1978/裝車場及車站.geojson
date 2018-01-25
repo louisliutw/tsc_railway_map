@@ -598,6 +598,9 @@
 { "type": "Feature", "properties": { "id": 593, "name": "白十號", "factory": "岸內" }, "geometry": { "type": "Point", "coordinates": [ 120.31485282856319, 23.370206068280048 ] } },
 { "type": "Feature", "properties": { "id": 594, "name": "白十一號", "factory": "岸內" }, "geometry": { "type": "Point", "coordinates": [ 120.319503453614232, 23.373551089766739 ] } },
 { "type": "Feature", "properties": { "id": 595, "name": "白七號", "factory": "岸內" }, "geometry": { "type": "Point", "coordinates": [ 120.303458825329287, 23.361423599327384 ] } },
-{ "type": "Feature", "properties": { "id": 596, "name": "岸內站", "factory": "岸內" }, "geometry": { "type": "Point", "coordinates": [ 120.261140584853038, 23.328263230381879 ] } }
+{ "type": "Feature", "properties": { "id": 596, "name": "岸內站", "factory": "岸內" }, "geometry": { "type": "Point", "coordinates": [ 120.261140584853038, 23.328263230381879 ] } },
+{ "type": "Feature", "properties": { "id": 597, "name": "(一)", "factory": "新營" }, "geometry": { "type": "Point", "coordinates": [ 120.21021344215734, 23.239459859428141 ] } },
+{ "type": "Feature", "properties": { "id": 598, "name": "(二)", "factory": "新營" }, "geometry": { "type": "Point", "coordinates": [ 120.20336048179081, 23.245125217836904 ] } },
+{ "type": "Feature", "properties": { "id": 599, "name": "(三)", "factory": "新營" }, "geometry": { "type": "Point", "coordinates": [ 120.199318348373339, 23.248466485828754 ] } }
 ]
 }
