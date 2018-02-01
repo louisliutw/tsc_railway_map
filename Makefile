@@ -1,4 +1,4 @@
-YEAR=1978 1986
+YEAR=1978
 
 OUTPUT=tsc_railway_map.kml
 .PHONY: clean all
