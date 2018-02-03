@@ -1540,6 +1540,8 @@
 { "type": "Feature", "properties": { "id": 1535, "name": "崎溝子", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.467646263953156, 24.054548386126832 ] } },
 { "type": "Feature", "properties": { "id": 1536, "name": "馬鳴山", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.500070514917837, 24.058600540024841 ] } },
 { "type": "Feature", "properties": { "id": 1537, "name": "莿桐腳", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.521234325313415, 24.072053201885531 ] } },
-{ "type": "Feature", "properties": { "id": 1538, "name": "過溝子", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.539801745885953, 24.086838463822165 ] } }
+{ "type": "Feature", "properties": { "id": 1538, "name": "過溝子", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.539801745885953, 24.086838463822165 ] } },
+{ "type": "Feature", "properties": { "id": 1539, "name": "(1)", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.386821474039181, 23.933394402663161 ] } },
+{ "type": "Feature", "properties": { "id": 1540, "name": "(1)", "factory": "溪湖" }, "geometry": { "type": "Point", "coordinates": [ 120.464799172963254, 23.83075133412725 ] } }
 ]
 }
