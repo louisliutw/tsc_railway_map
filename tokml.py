@@ -16,11 +16,11 @@ def import_point(year, kml_folder):
         return
 
     if len(d['features']) > 0:
-        doc = kml_folder.newdocument(name=year +' 裝車場及車站')
+        doc = kml_folder.newdocument(name=year + ' 裝車場及車站')
         for p in d['features']:
             doc.newpoint(
                 coords=[p['geometry']['coordinates']],
-                description=' '.join(str(p['properties'].values())),
+                description=' '.join([str(i) for i in p['properties'].values()]),
                 name=p['properties']['name'])
 
 
@@ -36,7 +36,7 @@ def import_line(year, kml_folder):
         doc = kml_folder.newdocument(name=year +' 路線')
         for l in d['features']:
             name = l['properties']['name']
-            desc = ' '.join(str(l['properties'].values()))
+            desc = ' '.join([str(i) for i in l['properties'].values()])
             if l['geometry']['type'] == 'LineString':
                 line = doc.newlinestring(name=name, description=desc)
                 line.coords = l['geometry']['coordinates']
