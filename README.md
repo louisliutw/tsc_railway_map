@@ -25,6 +25,7 @@ KML 檔下載位置：[https://github.com/louisliutw/tsc_railway_map/releases](h
 * [國土測繪圖資服務雲](https://maps.nlsc.gov.tw/)
 	* 地籍圖圖層
 	* 正射影像圖(通用)
+* [台灣 Corona 衛星影像](http://gis.rchss.sinica.edu.tw/corona/)
 * [台湾 臺糖鐵道 廃線跡 配線図式路線図](https://www.google.com/maps/d/viewer?mid=1vVF4DVLLea0wTYEFPTM603GRAg8)
 * [台灣糖業公司_台糖地籍圖資料](http://www.taisugar.com.tw/Upload/UserFiles/%E5%8F%B0%E7%B3%96%E5%9C%B0%E7%B1%8D%E5%9C%96%E8%B3%87%E6%96%99.zip)
 
