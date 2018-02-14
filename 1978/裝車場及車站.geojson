@@ -1633,7 +1633,7 @@
 { "type": "Feature", "properties": { "name": "東彭厝", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.535879406153555, 22.758905168076804 ] } },
 { "type": "Feature", "properties": { "name": "第二鹽埔", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.59357571769084, 22.749936110761428 ] } },
 { "type": "Feature", "properties": { "name": "新高朗", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.592815053780754, 22.737483472733771 ] } },
-{ "type": "Feature", "properties": { "name": "振興", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.602020672841277, 22.728650638492375 ] } },
+{ "type": "Feature", "properties": { "name": "振興", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.602184642373786, 22.729434414129592 ] } },
 { "type": "Feature", "properties": { "name": "新鹽埔", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.58443669765326, 22.750183300108414 ] } },
 { "type": "Feature", "properties": { "name": "永昌", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.528635694894689, 22.745607040848117 ] } },
 { "type": "Feature", "properties": { "name": "西彭厝", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.528851307052221, 22.758197795344618 ] } },
@@ -1661,8 +1661,8 @@
 { "type": "Feature", "properties": { "name": "下隘寮", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.617466841720088, 22.685909916461618 ] } },
 { "type": "Feature", "properties": { "name": "上隘寮", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.622096954073555, 22.68957262063098 ] } },
 { "type": "Feature", "properties": { "name": "隘寮溪", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.552162583097811, 22.655948456034434 ] } },
-{ "type": "Feature", "properties": { "name": "新隘寮溪", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.547912745976305, 22.647437722249503 ] } },
-{ "type": "Feature", "properties": { "name": "第二隘寮溪", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.542095848939297, 22.639687533571159 ] } },
+{ "type": "Feature", "properties": { "name": "新隘寮溪", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.544968485428484, 22.648823738870533 ] } },
+{ "type": "Feature", "properties": { "name": "第二隘寮溪", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.538278579166672, 22.641894331485233 ] } },
 { "type": "Feature", "properties": { "name": "大新庄", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.558513576476301, 22.661345799877438 ] } },
 { "type": "Feature", "properties": { "name": "頂大新", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.571101008753558, 22.671991678899293 ] } },
 { "type": "Feature", "properties": { "name": "佳佐", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.594253399927254, 22.566181041431232 ] } },
@@ -1827,6 +1827,10 @@
 { "type": "Feature", "properties": { "name": "蔗渣線", "factory": "花蓮" }, "geometry": { "type": "Point", "coordinates": [ 121.458800527185687, 23.736504345773014 ] } },
 { "type": "Feature", "properties": { "name": "#1", "factory": "大林" }, "geometry": { "type": "Point", "coordinates": [ 120.356736846484637, 23.542194754936144 ] } },
 { "type": "Feature", "properties": { "name": "No. 1", "factory": "虎尾" }, "geometry": { "type": "Point", "coordinates": [ 120.325705390348418, 23.790908372363546 ] } },
-{ "type": "Feature", "properties": { "name": "No. 2", "factory": "虎尾" }, "geometry": { "type": "Point", "coordinates": [ 120.326549954191378, 23.794455918474963 ] } }
+{ "type": "Feature", "properties": { "name": "No. 2", "factory": "虎尾" }, "geometry": { "type": "Point", "coordinates": [ 120.326549954191378, 23.794455918474963 ] } },
+{ "type": "Feature", "properties": { "name": "長興", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.558778632337763, 22.713403276953191 ] } },
+{ "type": "Feature", "properties": { "name": "#1", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.214543596685019, 23.465564137522751 ] } },
+{ "type": "Feature", "properties": { "name": "#2", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.21277383736809, 23.468992077856928 ] } },
+{ "type": "Feature", "properties": { "name": "#3", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.215163953003255, 23.474344334487302 ] } }
 ]
 }
