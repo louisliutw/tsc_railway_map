@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "裝車場及車站",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "name": "頂鹽田", "factory": "高雄" }, "geometry": { "type": "Point", "coordinates": [ 120.279325920348001, 22.755372484870001 ] } },
@@ -1831,6 +1832,7 @@
 { "type": "Feature", "properties": { "name": "長興", "factory": "屏東" }, "geometry": { "type": "Point", "coordinates": [ 120.558778632337763, 22.713403276953191 ] } },
 { "type": "Feature", "properties": { "name": "#1", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.214543596685019, 23.465564137522751 ] } },
 { "type": "Feature", "properties": { "name": "#2", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.21277383736809, 23.468992077856928 ] } },
-{ "type": "Feature", "properties": { "name": "#3", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.215163953003255, 23.474344334487302 ] } }
+{ "type": "Feature", "properties": { "name": "#3", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.215163953003255, 23.474344334487302 ] } },
+{ "type": "Feature", "properties": { "name": "北社尾", "factory": null }, "geometry": { "type": "Point", "coordinates": [ 120.421308102252112, 23.490048713198028 ] } }
 ]
 }
